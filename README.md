@@ -1,7 +1,9 @@
 # TK-08
+Buat fungsi:
+Pembagian tugas: <br>
+• Add (addition) - nirmala <br> 
+• Sub (subtraction) - ray <br>
+• Mul (multiplication) - joanna <br>
+• Div (division) - thalita <br>
 
-Pembagian tugas:
-• Add (addition) - nirmala 
-• Sub (subtraction) - ray
-• Mul (multiplication) - joanna
-• Div (division) - thalita
+Buat main prog dan nyatuin : nirmala
