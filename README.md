@@ -6,4 +6,3 @@ Pembagian tugas: <br>
 • Mul (multiplication) - joanna <br>
 • Div (division) - thalita <br>
 
-Buat main prog dan nyatuin : nirmala
